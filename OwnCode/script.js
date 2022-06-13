@@ -197,7 +197,6 @@ const startLogOutTimer = function () {
 
   return timer;
 };
-
 ///////////////////////////////////////
 // Event handlers
 let currentAccount, timer;
